@@ -2,7 +2,7 @@
 html {
   box-sizing: border-box;
   background: radial-gradient(circle,White,White 50%,White 25%,Black);
-  background-size: 12px 12px;
+  background-size: 6px 6px;
 }
 body {
   background-color: black;
