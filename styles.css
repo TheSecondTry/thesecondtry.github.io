@@ -1,4 +1,21 @@
 @import url(http://fonts.googleapis.com/css?family=PT+Sans+Narrow);
+html {
+  box-sizing: border-box;
+  background: radial-gradient(circle,Black,Black 50%,Black 50%,White);
+  background-size: 12px 12px;
+}
 body {
+  background-color: black;
+  color: white;
   font-family: "PT Sans Narrow",sans-serif;
+  border: 2px solid White;
+  border-radius: 16px;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 1024px;
+  min-width: 256px;
+  padding-top: 8px;
+  padding-bottom: 24px;
+  padding-left: 24px;
+  padding-right: 24px;
 }
