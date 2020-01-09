@@ -1,7 +1,7 @@
 @import url(http://fonts.googleapis.com/css?family=PT+Sans+Narrow);
 html {
   box-sizing: border-box;
-  background: radial-gradient(circle,Black,Black 50%,Black 50%,White);
+  background: radial-gradient(circle,White,White 50%,White 25%,Black);
   background-size: 12px 12px;
 }
 body {
