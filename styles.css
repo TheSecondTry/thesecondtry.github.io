@@ -3,7 +3,7 @@ html {
   background-color: rgb(64,64,191);
 }
 body {
-  background-color: crimson;
+  background-color: rgba(220,20,60,0.5);
   font-family: sans-serif;
   border: 2px solid White;
   border-radius: 16px;
