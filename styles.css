@@ -2,6 +2,7 @@ html {
   box-sizing: border-box;
   background-color: rgb(64,64,191);
 }
+
 body {
   background-color: rgba(220,20,60,0.5);
   font-family: sans-serif;
@@ -15,4 +16,15 @@ body {
   padding-bottom: 24px;
   padding-left: 24px;
   padding-right: 24px;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  border: 1px solid #000000;
+  padding: 8px;
+  text-align: left;
 }
